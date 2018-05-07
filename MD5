@@ -1,0 +1,16 @@
+f17d33691c25adef902bf1b5e1d8ecc4 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+8952a6038fbae1f9ea65d0d1f540352a *R/ExpBurst.R
+5bd4a07efd513f849ede753f0bd8c30d *R/ExpSpike.R
+871da5c74247a8dc0c1155321bde8bb0 *R/LinearBurst.R
+d1e673e298cc7fdf5521081b6a6a4b41 *R/LinearSpike.R
+0296841e314ed5946315f386fac70ad1 *R/Sinusoid.R
+38c7208c3531f25ac9bfe5c9613f25b1 *R/SquareBurst.R
+527287b3697ee96c1b1deb7d702ebb4c *R/SquareSpike.R
+9f5d37a8f1f01631fd464fd97a512a84 *man/ExpBurst.Rd
+6e0486e3882698da0a772a6a82c06c89 *man/ExpSpike.Rd
+1f1b3078da3f9e8505f4cefa1e698ebd *man/LinBurst.Rd
+72a0d51a2652dd79f99b93ebd9706b01 *man/LinSpike.Rd
+d307fcf9b9cf619d1a4f1d7abe8456aa *man/Sinusoid.Rd
+39bb6f0c717f2af1ebe5d61db8503033 *man/SquareBurst.Rd
+854cb11df3786f40e64a3f99829c5b18 *man/SquareSpike.Rd
